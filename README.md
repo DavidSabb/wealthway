@@ -1,6 +1,6 @@
 # app-dev-project
 ## WealthWay
-### Flutter based mobile application for finance/savings planning
+Flutter based mobile application for finance/savings planning
 
 # Key Features
 ## Dashboard Overview
